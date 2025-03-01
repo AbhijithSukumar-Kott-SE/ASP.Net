@@ -10,7 +10,7 @@ namespace ConnectExternalMedia
     {
         public static void connectWifi(string name)
         {
-            Console.WriteLine($"Connected to {name} wifi");
+            Console.WriteLine($"Successfully Connected to {name} wifi");
         }
 
     }
