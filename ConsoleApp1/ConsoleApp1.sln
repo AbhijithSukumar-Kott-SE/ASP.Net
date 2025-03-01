@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectExternalMedia", "ConnectExternalMedia\ConnectExternalMedia.csproj", "{3504C742-03DE-4FF1-857C-65D2E7E71099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jbl", "Jbl\Jbl.csproj", "{81E59D08-D36B-4FDA-BF9A-64BD37ED5D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedialPlayer", "MedialPlayer\MedialPlayer.csproj", "{9EBD0959-DBB0-4135-839F-112230EE5618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3504C742-03DE-4FF1-857C-65D2E7E71099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3504C742-03DE-4FF1-857C-65D2E7E71099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3504C742-03DE-4FF1-857C-65D2E7E71099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3504C742-03DE-4FF1-857C-65D2E7E71099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E59D08-D36B-4FDA-BF9A-64BD37ED5D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E59D08-D36B-4FDA-BF9A-64BD37ED5D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E59D08-D36B-4FDA-BF9A-64BD37ED5D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E59D08-D36B-4FDA-BF9A-64BD37ED5D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBD0959-DBB0-4135-839F-112230EE5618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBD0959-DBB0-4135-839F-112230EE5618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBD0959-DBB0-4135-839F-112230EE5618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBD0959-DBB0-4135-839F-112230EE5618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50FFDF28-2A51-42A7-BA0C-6B950C84109E}
+	EndGlobalSection
+EndGlobal
