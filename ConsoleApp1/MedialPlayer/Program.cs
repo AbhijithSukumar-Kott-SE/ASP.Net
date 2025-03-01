@@ -1,5 +1,6 @@
 ﻿
 using ConnectExternalMedia;
+using MedialPlayer;
 
 internal class Program
 {
@@ -8,6 +9,7 @@ internal class Program
         ConnectMedia.connectBluetooth();
         ConnectMedia.connectWifi("Psycho");
 
-
+        var maruthi = new Car(24354267, VehicleType.CAR);
+        maruthi.Drive();
     }
 }
