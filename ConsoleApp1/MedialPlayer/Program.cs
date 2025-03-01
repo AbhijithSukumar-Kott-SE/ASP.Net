@@ -7,5 +7,7 @@ internal class Program
     {
         ConnectMedia.connectBluetooth();
         ConnectMedia.connectWifi("Psycho");
+
+
     }
 }
