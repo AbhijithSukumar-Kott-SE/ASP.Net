@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jbl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d05b1b0cf2d7098d2c494f313c24e56d0d2b2cd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcdbaf1702342867939c4847843fd9fc74db0df8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jbl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jbl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
