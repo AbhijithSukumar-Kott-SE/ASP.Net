@@ -1,0 +1,6 @@
+@ManheimWebApi_HostAddress = http://localhost:5088
+
+GET {{ManheimWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

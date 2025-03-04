@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectExternalMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d05b1b0cf2d7098d2c494f313c24e56d0d2b2cd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c487a8948d4c564537daff87ce0e29b5e0ad049")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectExternalMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectExternalMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

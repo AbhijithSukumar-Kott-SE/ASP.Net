@@ -9,5 +9,10 @@ namespace MedialPlayer
     interface IMeassageSevice
     {
         void sendMessage(string message);
+
+        void Display(string data)
+        {
+            Console.WriteLine(data);
+        }
     }
 }

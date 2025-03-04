@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "zxBS3UcjSEnax1JW4iYsyfqUbtP0nYCGFSFEv49z8JY=",
+  "Source": "ManheimWebApi",
+  "BasePath": "_content/ManheimWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ManheimWebApi\\wwwroot",
+      "Source": "ManheimWebApi",
+      "ContentRoot": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\",
+      "BasePath": "_content/ManheimWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
+      "SourceId": "ManheimWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\",
+      "BasePath": "_content/ManheimWebApi",
+      "RelativePath": "images/5seriesnewseriesrightsideview#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7daha6rbq1",
+      "Integrity": "u+A97si2kstpZsphPO5MX4MU/Koftg1CdodmoVMnuFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5seriesnewseriesrightsideview.jfif"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/5seriesnewseriesrightsideview.7daha6rbq1.jfif",
+      "AssetFile": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "340057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+A97si2kstpZsphPO5MX4MU/Koftg1CdodmoVMnuFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 05:03:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7daha6rbq1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5seriesnewseriesrightsideview.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+A97si2kstpZsphPO5MX4MU/Koftg1CdodmoVMnuFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/5seriesnewseriesrightsideview.jfif",
+      "AssetFile": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "340057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+A97si2kstpZsphPO5MX4MU/Koftg1CdodmoVMnuFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 05:03:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+A97si2kstpZsphPO5MX4MU/Koftg1CdodmoVMnuFg="
+        }
+      ]
+    }
+  ]
+}

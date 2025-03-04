@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj": {}
+    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
+    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
+        "projectUniqueName": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
         "projectName": "ConnectExternalMedia",
-        "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
+        "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\obj\\",
         "projectStyle": "PackageReference",
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {
+    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
+        "projectUniqueName": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
         "projectName": "Jbl",
-        "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
+        "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\obj\\",
         "projectStyle": "PackageReference",
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
-                "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj"
+              "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
+                "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj"
               }
             }
           }
@@ -138,12 +138,12 @@
         }
       }
     },
-    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj": {
+    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj",
+        "projectUniqueName": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj",
         "projectName": "MedialPlayer",
-        "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj",
+        "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\obj\\",
         "projectStyle": "PackageReference",
@@ -166,8 +166,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {
-                "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj"
+              "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {
+                "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj"
               }
             }
           }
