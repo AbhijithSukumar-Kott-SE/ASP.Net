@@ -15,7 +15,8 @@ namespace ManheimWebApi.Repositories
 
         }
 
-        public async Task CreateUserAsync(User user)
+        public async Task
+            CreateUserAsync(User user)
         {
             await _usersCollection.InsertOneAsync(user);
             

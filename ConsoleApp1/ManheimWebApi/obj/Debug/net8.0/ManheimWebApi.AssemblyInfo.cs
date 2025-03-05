@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManheimWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e892b601668498422425e6a0f985415b66b66518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9582099033c0db93ecfec14d78958adf69335c90")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManheimWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManheimWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

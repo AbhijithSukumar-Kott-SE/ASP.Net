@@ -30,6 +30,11 @@ namespace ManheimWebApi.Controllers
         public async Task<IActionResult> GetUserById(string id)
         {
             var user = await _userRepository.GetUserByIdAsync(id);
+            if (user == null)
+            {
+                return NotFound($"User not found.");
+            }
+
             return Ok(user);
         }
 
@@ -77,11 +82,14 @@ namespace ManheimWebApi.Controllers
 
             await _userRepository.CreateUserAsync(user);
 
-            return CreatedAtAction(nameof(GetUserById), new { id = user.Id }, new
-            {
-                message = "User created successfully",
-                userId = user.Id
-            });
+            //return CreatedAtAction(null, new { id = user.Id }, new
+            //{
+            //    message = "User created successfully",
+            //    userId = user.Id
+            //});
+
+
+            return Ok(user);
         }
 
         [HttpPatch("{id}")]

@@ -28,7 +28,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-//using global exception hanling middleware
+//using global exception hanling middleware    
 app.UseMiddleware<GlobalExceptionHandlerMiddleware>();
 
 // Enable serving static files from wwwroot

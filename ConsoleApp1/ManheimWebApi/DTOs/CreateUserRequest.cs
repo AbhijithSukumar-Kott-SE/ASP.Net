@@ -19,7 +19,7 @@ namespace ManheimWebApi.DTOs
 
         [Required]
         [Range(1000000000, 9999999999, ErrorMessage = "Mobile number must be 10 digits")]
-        public long Mobile { get; set; }
+        public long Mobile { get; set; } 
 
         [Required]
         [MinLength(6)]
