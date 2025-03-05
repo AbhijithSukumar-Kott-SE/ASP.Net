@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {}
+    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
+    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
+        "projectUniqueName": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
         "projectName": "ConnectExternalMedia",
-        "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
+        "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\obj\\",
         "projectStyle": "PackageReference",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {
+    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
+        "projectUniqueName": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
         "projectName": "Jbl",
-        "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
+        "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\Jbl.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\Jbl\\obj\\",
+        "outputPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\Jbl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
-                "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj"
+              "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
+                "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj"
               }
             }
           }

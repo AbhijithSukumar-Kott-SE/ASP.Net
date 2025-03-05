@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {}
+    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
+    "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
+        "projectUniqueName": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
         "projectName": "ConnectExternalMedia",
-        "projectPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
+        "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\ConnectExternalMedia.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ConnectExternalMedia\\obj\\",
         "projectStyle": "PackageReference",

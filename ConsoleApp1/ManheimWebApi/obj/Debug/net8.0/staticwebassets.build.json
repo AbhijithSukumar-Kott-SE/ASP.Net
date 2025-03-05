@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zxBS3UcjSEnax1JW4iYsyfqUbtP0nYCGFSFEv49z8JY=",
+  "Hash": "b/JPT9wDhHHAdvfeEbmCfYDEsu8WhRAfQvoXLRxN6jw=",
   "Source": "ManheimWebApi",
   "BasePath": "_content/ManheimWebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ManheimWebApi\\wwwroot",
       "Source": "ManheimWebApi",
-      "ContentRoot": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\",
       "BasePath": "_content/ManheimWebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
+      "Identity": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
       "SourceId": "ManheimWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\",
       "BasePath": "_content/ManheimWebApi",
       "RelativePath": "images/5seriesnewseriesrightsideview#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
@@ -41,7 +41,7 @@
   "Endpoints": [
     {
       "Route": "images/5seriesnewseriesrightsideview.7daha6rbq1.jfif",
-      "AssetFile": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
+      "AssetFile": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86,7 +86,7 @@
     },
     {
       "Route": "images/5seriesnewseriesrightsideview.jfif",
-      "AssetFile": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
+      "AssetFile": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\ManheimWebApi\\wwwroot\\images\\5seriesnewseriesrightsideview.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {

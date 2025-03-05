@@ -1,12 +1,60 @@
 [
   {
     "ContainingType": "ManheimWebApi.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManheimWebApi.Controllers.UsersController",
     "Method": "GetAllUsers",
-    "RelativePath": "api/Users",
+    "RelativePath": "user/all",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManheimWebApi.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "user/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ManheimWebApi.DTOs.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManheimWebApi.Controllers.UsersController",
+    "Method": "GetUserByEmail",
+    "RelativePath": "user/GetUserByEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ManheimWebApi.DTOs.GetUserByEmaiRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

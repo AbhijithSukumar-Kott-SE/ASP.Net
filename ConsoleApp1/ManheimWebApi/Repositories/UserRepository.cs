@@ -18,6 +18,7 @@ namespace ManheimWebApi.Repositories
         public async Task CreateUserAsync(User user)
         {
             await _usersCollection.InsertOneAsync(user);
+            
         }
 
         public async Task<bool> DeleteUserAsync(string id)
