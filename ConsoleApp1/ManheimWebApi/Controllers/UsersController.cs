@@ -51,7 +51,7 @@ namespace ManheimWebApi.Controllers
             return Ok(user);
         }
 
-        [HttpPost("CreateUser")]
+        [HttpPost]
         public async Task<IActionResult> CreateUser([FromBody] CreateUserRequest request)
         {
             if (!ModelState.IsValid)
@@ -83,6 +83,55 @@ namespace ManheimWebApi.Controllers
                 userId = user.Id
             });
         }
+
+        [HttpPatch("{id}")]
+        public async Task<IActionResult> UpdateUser(string id, [FromBody] UpdateUserRequest request)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState); // Returns validation errors
+            }
+
+            var existingUser = await _userRepository.GetUserByIdAsync(id);
+            if (existingUser == null)
+            {
+                return NotFound(new { message = "User not found" });
+            }
+
+            // Update only the fields that are provided in the request
+            if (!string.IsNullOrEmpty(request.Name))
+                existingUser.Name = request.Name;
+
+            if (!string.IsNullOrEmpty(request.Email))
+                existingUser.Email = request.Email;
+
+            if (request.Role.HasValue)
+                existingUser.Role = request.Role.Value;
+
+            if (request.Mobile.HasValue)
+                existingUser.Mobile = request.Mobile.Value;
+
+            await _userRepository.UpdateUserAsync(id, existingUser);
+
+            return Ok(new { message = "User updated successfully" });
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteUser(string id)
+        {
+            var existingUser = await _userRepository.GetUserByIdAsync(id);
+
+            if (existingUser == null)
+            {
+                return NotFound(new { message = "User not found" });
+            }
+
+            await _userRepository.DeleteUserAsync(id);
+
+            return Ok(new { message = "User deleted successfully" });
+        }
+
+
 
 
     }

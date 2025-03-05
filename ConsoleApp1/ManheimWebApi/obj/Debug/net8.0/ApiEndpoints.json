@@ -1,9 +1,62 @@
 [
   {
     "ContainingType": "ManheimWebApi.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ManheimWebApi.DTOs.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManheimWebApi.Controllers.UsersController",
     "Method": "GetUserById",
     "RelativePath": "user/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManheimWebApi.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ManheimWebApi.DTOs.UpdateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManheimWebApi.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -23,22 +76,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ManheimWebApi.Controllers.UsersController",
-    "Method": "CreateUser",
-    "RelativePath": "user/CreateUser",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "ManheimWebApi.DTOs.CreateUserRequest",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   },
   {
