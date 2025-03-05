@@ -34,6 +34,7 @@ namespace ManheimWebApi.Repositories
 
         public async Task<User?> GetUserByEmailAsync(string email)
         {
+            //throw new Exception("Database connection failed!");
             return await _usersCollection.Find(u => u.Email == email).FirstOrDefaultAsync();
         }
 

@@ -1,4 +1,5 @@
 using ManheimWebApi.Configuration;
+using ManheimWebApi.Middlewares;
 using ManheimWebApi.Repositories;
 using ManheimWebApi.Repositories.interfaces;
 using MongoDB.Driver;
@@ -12,6 +13,10 @@ builder.Services.AddSingleton<MongoDBSettings>(mogoSettings!);
 builder.Services.AddSingleton<IMongoClient>(new MongoClient(mogoSettings!.ConnectionString));
 
 builder.Services.AddSingleton<MongoDbService>();
+
+//Registering Global Exception service
+builder.Services.AddTransient<GlobalExceptionHandlerMiddleware>();
+
 // Register the repository correctly
 builder.Services.AddScoped<IUserRepository, UserRepository>();  //  Register the main interface
 
@@ -22,6 +27,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+//using global exception hanling middleware
+app.UseMiddleware<GlobalExceptionHandlerMiddleware>();
 
 // Enable serving static files from wwwroot
 app.UseStaticFiles();
