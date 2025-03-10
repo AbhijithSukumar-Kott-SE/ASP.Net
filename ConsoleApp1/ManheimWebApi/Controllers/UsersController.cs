@@ -2,6 +2,7 @@
 using ManheimWebApi.Models;
 using ManheimWebApi.Repositories.interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 
 namespace ManheimWebApi.Controllers
 {
@@ -21,6 +22,7 @@ namespace ManheimWebApi.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllUsers()
         {
+            Log.Information("Req hitted GetAllUsers method .....................");
             var users = await _userRepository.GetAllUsersAsync();
             return Ok(users);
         }

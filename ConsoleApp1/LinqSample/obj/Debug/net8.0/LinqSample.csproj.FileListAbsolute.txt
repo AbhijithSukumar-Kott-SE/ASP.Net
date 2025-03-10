@@ -1,0 +1,15 @@
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\bin\Debug\net8.0\LinqSample.exe
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\bin\Debug\net8.0\LinqSample.deps.json
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\bin\Debug\net8.0\LinqSample.runtimeconfig.json
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\bin\Debug\net8.0\LinqSample.dll
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\bin\Debug\net8.0\LinqSample.pdb
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.AssemblyInfoInputs.cache
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.AssemblyInfo.cs
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.csproj.CoreCompileInputs.cache
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.sourcelink.json
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.dll
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\refint\LinqSample.dll
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.pdb
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\LinqSample.genruntimeconfig.cache
+C:\Users\abhijith\source\repos\ASP.Net\ConsoleApp1\LinqSample\obj\Debug\net8.0\ref\LinqSample.dll

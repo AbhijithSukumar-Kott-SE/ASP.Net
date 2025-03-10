@@ -145,7 +145,7 @@
         "projectName": "MedialPlayer",
         "projectPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\MedialPlayer.csproj",
         "packagesPath": "C:\\Users\\abhijith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhijith\\Source\\Repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\obj\\",
+        "outputPath": "C:\\Users\\abhijith\\source\\repos\\ASP.Net\\ConsoleApp1\\MedialPlayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
